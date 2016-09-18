@@ -15,7 +15,7 @@ public class test {
 			Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/demo",
 					"root", "root");
 		} catch (Exception e) {
-			
+			System.out.println("233");
 			e.printStackTrace();
 		}
 		
