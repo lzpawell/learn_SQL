@@ -16,6 +16,7 @@ public class test {
 					"root", "root");
 		} catch (Exception e) {
 			System.out.println("233");
+			System.out.println("well");
 			e.printStackTrace();
 		}
 		
